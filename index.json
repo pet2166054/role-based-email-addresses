@@ -1,4 +1,4 @@
-module.exports = [
+[
   "123",
   "2015",
   "2016",
@@ -942,4 +942,4 @@ module.exports = [
   "www",
   "zakaz",
   "zentrale"
-];
+]
